@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/explosion/span-labeling-datasets/commit/a35c3948d04892e53465bb9b874298a6de609743",
       "git:hexsha": "a35c3948d04892e53465bb9b874298a6de609743",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
