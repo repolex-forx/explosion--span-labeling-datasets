@@ -1,0 +1,11 @@
+{
+  "org": "explosion",
+  "repo": "span-labeling-datasets",
+  "versions": [
+    {
+      "commit": "a35c3948d04892e53465bb9b874298a6de609743",
+      "tag": "",
+      "parsed_at": "2026-10-28T11:43:47.542447+00:00"
+    }
+  ]
+}
